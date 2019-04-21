@@ -1,2 +1,2 @@
-# grid-cloud
+# gridcloud
 AWS Cloud services abstraction
